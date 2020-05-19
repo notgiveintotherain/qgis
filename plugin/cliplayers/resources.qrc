@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/cliplayers" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
