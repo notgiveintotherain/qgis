@@ -7,10 +7,12 @@
      (at your option) any later version.
 
 """
+       copyright            : (C) hideto yonezawa
+       email                : 
 
-__author__ = 'yonezawa@incrementp.co.jp'
+__author__ = 'notgiveintotherain@gmail.com'
 __date__ = '2020-04-28'
-__copyright__ = 'Copyright 2020, インクリメントP株式会社'
+__copyright__ = '(C) hideto yonezawa'
 
 import unittest
 
