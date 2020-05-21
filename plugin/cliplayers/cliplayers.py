@@ -8,8 +8,8 @@
                               -------------------
         begin                : 2020-04-28
         git sha              : $Format:%H$
-        copyright            : (C) 2020 by インクリメントP株式会社
-        email                : yonezawa@incrementp.co.jp
+        copyright            : (C) hideto yonezawa
+        email                : notgiveintotherain@gmail.com
  ***************************************************************************/
 
 /***************************************************************************
@@ -159,7 +159,8 @@ class ClipLayers:
     def initGui(self):
         """Create the menu entries and toolbar icons inside the QGIS GUI."""
 
-        icon_path = ':/plugins/cliplayers/icon.png'
+        #icon_path = ':/plugin/cliplayers/icon.png'
+        icon_path = ':/cliplayers/icon.png'
         self.add_action(
             icon_path,
             text=self.tr(u'ClipLayers'),

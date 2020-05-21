@@ -1,10 +1,10 @@
 Plugin Builder Results
 
 Your plugin cliplayers was created in:
-    C:/Users/yonezawa.WIN/AppData/Roaming/QGIS/QGIS3/profiles/default/python/plugins/view_export2\view_export
+    
 
 Your QGIS plugin directory is located at:
-    C:/Users/yonezawa.WIN/AppData/Roaming/QGIS/QGIS3/profiles/default/python/plugins
+    
 
 What's Next:
 
@@ -17,7 +17,7 @@ What's Next:
 
   * Test the plugin by enabling it in the QGIS plugin manager
 
-  * Customize it by editing the implementation file: ``view_export.py``
+  * Customize it by editing the implementation file: ``cliplayers.py``
 
   * Create your own custom icon, replacing the default icon.png
 

@@ -7,8 +7,8 @@ name=cliplayers
 qgisMinimumVersion=3.0
 description=表示は範囲をGeoPackageにエクスポートする
 version=0.1
-author=インクリメントP株式会社
-email=yonezawa@incrementp.co.jp
+author=hideto yonezawa
+email=notgiveintotherain@gmail.com
 
 about=Provide a brief description of the plugin and its purpose.
 

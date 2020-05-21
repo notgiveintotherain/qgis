@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>View Export</string>
+   <string>ClipLayers</string>
   </property>
   <widget class="QWidget" name="verticalLayoutWidget">
    <property name="geometry">

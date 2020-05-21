@@ -8,8 +8,8 @@
                              -------------------
         begin                : 2020-04-28
         git sha              : $Format:%H$
-        copyright            : (C) 2020 by インクリメントP株式会社
-        email                : yonezawa@incrementp.co.jp
+        copyright            : (C) hideto yonezawa
+        email                : notgiveintotherain@gmail.com
  ***************************************************************************/
 
 /***************************************************************************
@@ -55,7 +55,7 @@ class ClipLayersDialog(QDialog, FORM_CLASS):
 
         self.iface = iface
         
-        self.settings = QgsSettings("Incrementp", "cliplayerss")
+        self.settings = QgsSettings("Hideto Yonezawa", "cliplayerss")
 
         # ExtentGroupBoxにMaｐCanvasを設定
         self.mExtentGroupBox.setMapCanvas(self.iface.mapCanvas())
