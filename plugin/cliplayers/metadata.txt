@@ -5,7 +5,7 @@
 [general]
 name=cliplayers
 qgisMinimumVersion=3.0
-description=表示は範囲をGeoPackageにエクスポートする
+description=表示範囲をGeoPackageにエクスポートする
 version=0.1
 author=hideto yonezawa
 email=notgiveintotherain@gmail.com
